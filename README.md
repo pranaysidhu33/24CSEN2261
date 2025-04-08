@@ -8,3 +8,6 @@
 
 [infix to prefix](infix_to_prefix.py)
 
+[implementation of queue using array](implementation_of_queue_using_array.py)
+
+
